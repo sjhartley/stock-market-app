@@ -30,4 +30,11 @@ follow this link for information regarding this: https://developers.google.com/m
 
 Final note
 
-This app is currently in development. <br />
+This app is currently in development. <br /> <br />
+
+![home screen](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/1.PNG)
+<br />
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/3.PNG)
+<br />
+![SP500 HQ locations](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/2.PNG)
+![SP500 HQ locations](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/4.PNG)
