@@ -32,9 +32,14 @@ Final note
 
 This app is currently in development. <br /> <br />
 
+Below are some screenshots: <br /> <br />
+
+Home screen <br />
 ![home screen](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/1.PNG)
-<br />
+<br /> <br />
+NASDAQ100 stock retreival <br />
 ![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/3.PNG)
-<br />
+<br /> <br />
+Showing SP500 company HQ locations <br />
 ![SP500 HQ locations](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/2.PNG)
 ![SP500 HQ locations](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/4.PNG)
