@@ -42,4 +42,5 @@ NASDAQ100 stock retreival <br />
 <br /> <br />
 Showing SP500 company HQ locations <br />
 ![SP500 HQ locations](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/2.PNG)
+<br /> <br />
 ![SP500 HQ locations](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/4.PNG)
