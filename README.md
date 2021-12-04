@@ -38,9 +38,31 @@ Home screen <br />
 ![home screen](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/1.PNG)
 <br /> <br />
 NASDAQ100 stock retreival <br />
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/2.PNG)
+<br /> <br />
 ![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/3.PNG)
 <br /> <br />
-Showing SP500 company HQ locations <br />
-![SP500 HQ locations](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/2.PNG)
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/4.PNG)
 <br /> <br />
-![SP500 HQ locations](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/4.PNG)
+LISTING ALL NASDAQ100 COMPONENTS
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/5.PNG)
+<br /> <br />
+Showing SP500 company HQ locations <br />
+![SP500 HQ locations](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/6.PNG)
+<br /> <br />
+![SP500 HQ locations](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/7.PNG)
+<br /> <br />
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/8.PNG)
+<br /> <br />
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/9.PNG)
+<br /> <br />
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/10.PNG)
+<br /> <br />
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/11.PNG)
+<br /> <br />
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/12.PNG)
+<br /> <br />
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/13.PNG)
+<br /> <br />
+![NASDAQ100 stock retreival](https://github.com/sjhartley/stock-market-app/blob/main/screenshots/14.PNG)
+<br /> <br />
