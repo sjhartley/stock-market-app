@@ -15,6 +15,8 @@
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/stack": "^6.0.11",
     "axios": "^0.24.0",
+    "follow-redirects": "^1.14.7",
+    "nanoid": "^3.2.0",
     "react": "17.0.2",
     "react-native": "0.66.2",
     "react-native-cheerio": "^1.0.0-rc.4",
