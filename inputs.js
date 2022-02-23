@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { ImageBackground, Image, View, Text, TouchableOpacity, TextInput, ScrollView, StyleSheet } from 'react-native';
 const funcs = require('./funcs.js');
-var bloomberg =require('./bloomberg.js');
-var maps=require('./maps.js');
+const bloomberg =require('./bloomberg.js');
+const maps=require('./maps.js');
 
 
 class Inputs extends Component {

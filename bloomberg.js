@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { ToastAndroid, Image, StyleSheet, View, TouchableOpacity, ScrollView, Text, Alert } from 'react-native';
 var app_stuff = require('./App.js');
-var Sound=require('react-native-sound');
+const Sound=require('react-native-sound');
 import axios from 'axios';
 const cheerio = require('react-native-cheerio');
 

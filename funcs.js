@@ -1,8 +1,8 @@
 import axios from 'axios';
 const cheerio = require('react-native-cheerio');
-var app_stuff = require('./App.js');
+const app_stuff = require('./App.js');
 import { Alert, Modal } from 'react-native';
-var misc=require('./misc.js');
+const misc=require('./misc.js');
 
 function nasdaq_get(keyWord){
 

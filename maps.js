@@ -2,13 +2,13 @@ import React, { Component } from 'react'
 import { Modal, Alert, Dimensions, PixelRatio, Image, StyleSheet, View, TouchableOpacity, ScrollView, Text } from 'react-native';
 import {Picker} from '@react-native-picker/picker';
 import { ProgressBar} from 'react-native-paper';
-var app_stuff = require('./App.js');
 import MapView from 'react-native-maps';
 import { Marker } from 'react-native-maps';
 import axios from 'axios';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+const app_stuff = require('./App.js');
 const cheerio = require('react-native-cheerio');
-var misc=require('./misc.js');
+const misc=require('./misc.js');
 
 const screen = Dimensions.get('window');
 const aspectRatio=screen.width/screen.height;
